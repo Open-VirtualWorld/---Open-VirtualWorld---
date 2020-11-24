@@ -1,59 +1,22 @@
-Обязательные ф-ии для работы сервера и хорошей основы для разработки сервера
+ Open-VirtualWorld 
+========
 
+ Open-VirtualWorld  – бесплатный, OpenSource проект, под Creative Commons лицензией. Является продолжением разработки VirtualWorld v7.2.684. У вас есть право использовать и изменять данный продукт, оставляя все копирайты.
 
+О режиме Open-VirtualWorld 
+=======
+ Open-VirtualWorld (сокр. от Open –  VirtualWorld ) – это скриптовый игровой режим, для sa-mp сервера. В этом моде содержатся все популярные режимы игр: гонки, дм(от англ. Deathmatch), а также элементы RPG.
 
+В гонках и дмах вы можете проявить свои ездовые и стрелковые умения. И в случае победы – получить хорошее вознаграждение.
 
-gl_common.inc общие ф-ии для работы мода grandlarc
-gl_messages.inc система сообщениий
-gl_spawns.inc массив спаунов
-grandlarc.inc выбор спауна, выбор скина, загрузка свободных тачек и т.п.
+Каждый игрок имеет право создать банду. В банде вам будет проще прокачать своего персонажа, а также выжить в это сложное время.
 
-vw_admin.inc админка
-vw_arrays.inc необходимые массивы
-vw_audio.inc 
-vw_camera.inc ф-ии по работе с камерой
-vw_carstatus.inc
-vw_changer.inc
-vw_check.inc
-vw_checking.inc
-vw_checkpoint.inc
-vw_color.inc
-vw_conect.inc
-vw_config.inc
-vw_defines.inc
-vw_dialog.inc
-vw_firstlook.inc
-vw_functions.inc
-vw_get.inc
-vw_gps.inc
-vw_gunchange.inc
-vw_info.inc
-vw_interior.inc
-vw_log.inc
-vw_mapicon.inc
-vw_menu.inc
-vw_message.inc
-vw_object.inc
-vw_pickup.inc
-vw_playemenu.inc
-vw_player.inc
-vw_PlayerEx.inc
-vw_PlayerInfo.inc
-vw_playerinit.inc
-vw_playerselect.inc
-vw_plids.inc
-vw_prints.inc
-vw_set.inc
-vw_skill.inc
-vw_skin.inc
-vw_sound.inc
-vw_specialkeys.inc
-vw_text3D.inc
-vw_textdraw.inc
-vw_timers.inc
-vw_VehEx.inc
-vw_vehicle.inc
-vw_VehInfo.inc
-vw_vehmenu.inc
-vw_weapon.inc
-vw_weather.inc
+Бизнесы – хороший способ заработка, но чтобы его купить, придётся выложить кругленькую сумму.
+
+Дом – место появления вашего персонажа после смерти. В домах можно сдавать комнату, получая за это прибыль и восстановить здоровье, после очередной перестрелки.
+
+Как и во многих RPG режимах здесь присутствуют уровни, чем уровень выше – тем больше вы можете купить видов оружия, быстрее восстановить здоровье, купить более хороший бизнес или дом и многое другое. Чтобы получить новый уровень, нужно набрать определённое количество опыта. Он набирается при убийстве враждебных игроков, победах в гонках и дмах, выполнении различных миссий.
+
+История развития проекта
+=======
+Проект Open-VirtualWorld задумывался в середине 2008 года. В 2009 году сервер на базе данного мода собирал до 300 онлайна из 500 возможных.
